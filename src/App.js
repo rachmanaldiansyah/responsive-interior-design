@@ -9,7 +9,7 @@ import Services from "./views/Services";
 function App() {
   return (
     <>
-      {/* <Hero /> */}
+      <Hero />
       {/* <Services /> */}
       {/* <Products /> */}
       {/* <Reference /> */}
