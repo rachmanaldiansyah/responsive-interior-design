@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Hero />
-      {/* <Services /> */}
+      <Services />
       {/* <Products /> */}
       {/* <Reference /> */}
       {/* <Care /> */}
