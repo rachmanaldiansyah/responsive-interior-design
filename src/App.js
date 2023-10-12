@@ -1,4 +1,3 @@
-// local imports
 import Care from "./views/Care";
 import Footer from "./views/Footer";
 import Hero from "./views/Hero";
