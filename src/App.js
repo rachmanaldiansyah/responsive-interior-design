@@ -11,7 +11,7 @@ function App() {
       <Hero />
       <Services />
       <Products />
-      {/* <Reference /> */}
+      <Reference />
       {/* <Care /> */}
       {/* <Footer /> */}
     </>
