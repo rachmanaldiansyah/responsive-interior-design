@@ -1,4 +1,3 @@
-// local imports
 import shippingIcon from "./assets/free-shiping-icon.svg";
 import paymentIcon from "./assets/quick-payment-icon.svg";
 import supportIcon from "./assets/support-icon.svg";
