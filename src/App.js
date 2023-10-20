@@ -13,7 +13,7 @@ function App() {
       <Products />
       <Reference />
       <Care />
-      {/* <Footer /> */}
+      <Footer />
     </>
   );
 }
