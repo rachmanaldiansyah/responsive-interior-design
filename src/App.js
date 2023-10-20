@@ -12,7 +12,7 @@ function App() {
       <Services />
       <Products />
       <Reference />
-      {/* <Care /> */}
+      <Care />
       {/* <Footer /> */}
     </>
   );
